@@ -1,3 +1,5 @@
+![Img](https://github.com/user-attachments/assets/21b513a7-cd65-4b15-9583-1fad33b5f52d)
+
 # ArtHive: A UI/UX Case Study
 A Collaborative Art Platform for Artists
 
