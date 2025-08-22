@@ -35,7 +35,5 @@ My design process was iterative and user-centered, following a multi-step approa
 # 🖼️ Project Deliverables
 This repository contains the following assets from the project:
 
-* Figma Files: Link to the complete Figma design file containing all wireframes and prototypes.
-* User Personas: PDF or image files of the user personas developed during the research phase.
-* Usability Test Reports: A summary of the findings and key insights from the usability tests.
+* Figma Files: Link to the complete Figma design file containing all wireframes, prototypes and User Personas.
 * High-Fidelity Prototype: A direct link to the interactive Figma prototype for a hands-on experience.
