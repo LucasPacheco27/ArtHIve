@@ -1,15 +1,16 @@
 # ArtHive: A UI/UX Case Study
 A Collaborative Art Platform for Artists
-🎨 Project Overview
+
+# 🎨 Project Overview
 A collaborative art platform for artists, ArtHive is a dynamic app designed to connect artists, facilitate seamless collaboration, and provide a dedicated space for creative exploration. This project serves as a case study showcasing my UI/UX design process, from initial research to final prototype.
 
-problem The UI/UX Challenge
+# Problem The UI/UX Challenge
 The art community lacks a dedicated digital space for structured collaboration and professional feedback. Existing platforms are great for showcasing finished work but fall short in providing tools for collaborative project management, real-time co-creation, and a structured feedback system. ArtHive was designed to solve this problem by creating a specialized platform that caters to the unique needs of artists.
 
-✨ Key Features
-Collaborative Artboards: A virtual canvas allowing multiple artists to work on a single piece simultaneously with real-time updates.
+# ✨ Key Features
+* Collaborative Artboards: A virtual canvas allowing multiple artists to work on a single piece simultaneously with real-time updates.
 
-Intuitive Project Management: Tools for creating, assigning, and tracking tasks within a collaborative project.
+* Intuitive Project Management: Tools for creating, assigning, and tracking tasks within a collaborative project.
 
 Discovery Feed: An algorithm-powered feed that suggests relevant artists and projects based on a user's interests.
 
