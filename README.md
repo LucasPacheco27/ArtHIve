@@ -1,8 +1,6 @@
-![Img](https://github.com/user-attachments/assets/21b513a7-cd65-4b15-9583-1fad33b5f52d)
-
 # ArtHive: A UI/UX Case Study
 A Collaborative Art Platform for Artists
-
+![Img](https://github.com/user-attachments/assets/21b513a7-cd65-4b15-9583-1fad33b5f52d)
 # 🎨 Project Overview
 A collaborative art platform for artists, ArtHive is a dynamic app designed to connect artists, facilitate seamless collaboration, and provide a dedicated space for creative exploration. This project serves as a case study showcasing my UI/UX design process, from initial research to final prototype.
 
